@@ -9,7 +9,7 @@ public class TicTacToe {
 //    методичку.
 //    2. Переделать проверку победы, чтобы она не была реализована просто набором условий,
 //    например, с использованием циклов.
-private static final int SIZE = 3;
+    private static final int SIZE = 3;
     private static final int DOTS_TO_WIN = 3;
     private static final char DOT_EMPTY = '.';
     private static final char DOT_X = 'X';
